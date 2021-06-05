@@ -6,8 +6,9 @@
 - Make the HTML semantically readable.
 
 ## Mock-up
+
 Screencapture of Mock-up  
-![portfolio demo](./Assets/images/mock-up.png)
+![portfolio demo](./assets/images/mock-up.png)
 
 https://timdavidson2.github.io/code-refactor/
 
